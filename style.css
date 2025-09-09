@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier Prime', Courier, monospace;
+    background-color: white;
+    color: black;
+    line-height: 2;
+}
+
+body {
+    max-width: 800px;
+    margin: 10px auto;
+}
+
+p {
+    margin: 8px 0;
+    font-family: Courier, monospace;
+}
+
+.highlight {
+    font-weight: bold;
+}

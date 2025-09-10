@@ -3,25 +3,46 @@
 - [The Odin Project](https://www.theodinproject.com/)
 
 ## Bookmarks
+### Inderstanding the Web
+1. [Introductory HTTP](https://launchschool.com/books/http/read/introduction) LaunchSchool
+
+### Git / GitHub
+> The first three resources are really good for getting your Git game up
+1. [Setting up Git](https://www.theodinproject.com/lessons/foundations-setting-up-git) The Odin Project
+
+2. [Introduction to Git](https://www.theodinproject.com/lessons/foundations-introduction-to-git) The Odin Project
+
+3. [Git Basics](https://www.theodinproject.com/lessons/foundations-git-basics) The Odin Project
+
+4. [What is Git? Explained in 2 Minutes!](https://www.youtube.com/watch?v=2ReR1YJrNOM) Programming with Mosh
+
+5. [Testing your SSH connection](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection?platform=linux) GitHub Docs
+
+6. [How to Write a Git Commit Message](https://cbea.ms/git-commit/) cbeams
+
+### Box Model
 1. [Block and Inline](https://www.theodinproject.com/lessons/foundations-block-and-inline) The Odin Project
+
 2. [Learn CSS Layout](https://learnlayout.com/no-layout.html)
 
 3. [display - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/display) MDN
 
-4. [Introduction to Flexbox](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox#knowledge-check) The Odin Project
 
-5. [Learn Flexbox CSS in 8 minutes](https://www.youtube.com/watch?v=phWxA89Dy94) Slaying The Dragon
+### CSS Layouts
+1. [Introduction to Flexbox](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox#knowledge-check) The Odin Project
+
+2. [Learn Flexbox CSS in 8 minutes](https://www.youtube.com/watch?v=phWxA89Dy94) Slaying The Dragon
+
+3. [Flexbox](https://internetingishard.netlify.app/html-and-css/flexbox/#setup) Interneting is hard
 
 ## Articles
-1. [History of CSS Grid and CSS Flexbox](https://medium.com/@BennyOgidan/history-of-css-grid-and-css-flexbox-658ae6cfe6d2) Benny Ogidan  -- Medium
+1. [History of CSS Grid and CSS Flexbox](https://medium.com/@BennyOgidan/history-of-css-grid-and-css-flexbox-658ae6cfe6d2) Benny Ogidan - Medium
 <!-- 2. [Boot Up 2017 with the #100DaysOfCode Challenge](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) freeCodeCamp Medium 
 3. [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html) StudyWebDevelopment Blog -->
 
 <!-- ### Podcasts -->
 
-<!-- # Additional Resources on the #100DaysOfCode
-
-## Helpful Articles
+<!-- ## Helpful Articles
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
 2. [Build a Laravel CRUD Application from scratch](https://www.codewall.co.uk/laravel-crud-demo-with-resource-controller-tutorial/)
 

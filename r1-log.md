@@ -13,7 +13,7 @@ The middle ground is the *inline-block*, which formats an element to be inline b
 
 More in the [resources](./resources.md) tab.
 
-Completed an assignment, hosted [here](https://github.com/odunlemi/css-exercises/tree/main/foundations/block-and-inline), and rebuilt an earlier recipes website with the css I've picked up so far - https://odunlemi.github.io/odin-recipes/
+Completed an assignment, hosted [here](https://github.com/odunlemi/css-exercises/tree/main/foundations/block-and-inline), and rebuilt an earlier recipes website with new css skills - https://odunlemi.github.io/odin-recipes/
 
 ## R1D2 - Sep. 9, 2025
 Flexbox provides a way to arrange items into rows or columns. These items will flex, grow, or shrink based on defined rules.
@@ -22,4 +22,12 @@ Flexbox is just not a single css property, it's a toolbox of properties to arran
 
 More in the [resources](./resources.md) tab.
 
-Worked on: a codepen example using flexbox properties - https://codepen.io/odunlemi/pen/dPYLJPg
+Worked on: a flexbox example - https://codepen.io/odunlemi/pen/dPYLJPg
+
+## R1D3 - Sep. 10, 2025
+Floats were the sole option of laying out a complex webpage. However, floats were originally designed for magazing-style layouts, and the kinds of layouts you can achieve with floats are somewhat limited. Flexbox was created to break out of the limitations. Flexbox gives complete control over the alignment, direction, order, size of the elements (boxes) in our layout.
+
+More materials on the [resources](./resources.md) tab especially [interneting is hard](https://internetingishard.netlify.app/html-and-css/flexbox/).
+
+Worked on: an example demonstrating all the flexbox properties - https://codepen.io/odunlemi/pen/azvrvvd
+

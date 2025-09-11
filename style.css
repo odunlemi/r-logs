@@ -23,3 +23,7 @@ p {
 .highlight {
     font-weight: bold;
 }
+
+ol, ul {
+    margin-bottom: 8px;
+}

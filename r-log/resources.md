@@ -39,6 +39,18 @@
 
 5. [Flex grow, shrink, basis - Flexbox tutorial](https://scrimba.com/learn-flexbox-c0k/~09) Scrimba
 
+6. [Why inline-flex is my new favorite display value](https://www.youtube.com/watch?v=Xo3vyx2KSK8) Coding2GO | YouTube
+
+7. [FLEX: A simple visual cheatsheet for flexbox](https://flexbox.malven.co/) Malven.co
+
+8. [Alignment](https://www.theodinproject.com/lessons/foundations-alignment#introduction) The Odin Project
+
+9. [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) Josh W. Comeau
+
+10. [Flexbox Responsive Form by Adam Argyle](https://codepen.io/argyleink/pen/LYEegOO)
+
+11. [CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - CSS-Tricks with a high-res cheatsheet poster [here](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png)
+
 ## Articles
 1. [History of CSS Grid and CSS Flexbox](https://medium.com/@BennyOgidan/history-of-css-grid-and-css-flexbox-658ae6cfe6d2) Benny Ogidan - Medium
 <!-- 2. [Boot Up 2017 with the #100DaysOfCode Challenge](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) freeCodeCamp Medium 

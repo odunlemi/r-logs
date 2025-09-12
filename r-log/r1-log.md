@@ -31,7 +31,7 @@ More materials on the [resources](./resources.md) tab especially [interneting is
 
 Worked on: an example demonstrating all the flexbox properties - https://codepen.io/odunlemi/pen/azvrvvd
 
-## R1D4 - Sep. 11. 2025
+## R1D4 - Sep. 11, 2025
 `flex: [value]`. The flex declaration is actually a shorthand for 3 properties that you can set on a flex item. These properties affect how flex items size themselves within their container. In this case, `flex` is actually a shorthand for `flex-grow`, `flex-shrink` and `flex-basis`.
 
 With a value of 1, as commonly used, `flex: 1` equates to: `flex-grow: 1`, `flex-shrink: 1`, `flex-basis: 0`.
@@ -41,3 +41,12 @@ When `auto` is defined as a flex keyword it is equivalent to the values of `flex
 More in the [resources](./resources.md#css-layouts) tab.
 
 Worked on: my r-log webpage, making it responsive using flexbox and setting it up for long term use - https://odunlemi.github.io/r-logs/
+
+## R1D5 - Sep. 12, 2025
+Axes in flexbox. When an element is made a flex container, its items align across two axes - the main axis and the cross axis. `justify-content` aligns items across the main axis. To change the placement of items along the cross axis use `align-items`. The main axis and cross axis are based on the `flex-direction` of the container, if `row` which is the default, the main axis goes from left to right (horizonatal) and the cross axis goes from top to bottom (vertical). 
+
+Flex direction set to `column` switches those axes and `justify-content` then aligns items vertically and, `align-items`, horizontally.
+
+More in the [resources](./resources.md#css-layouts) tab.
+
+Working on*: an interactive guide to flexbox and course assignments - [Josh w. comeau's guide](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) & [Foundation css exercises](https://github.com/odunlemi/css-exercises/tree/main/foundations/flex)

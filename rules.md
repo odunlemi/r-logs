@@ -25,18 +25,16 @@ Mon. Sep 8, 2025
 ### Examples:
 ```
 update: r-log for R1D4 - Sep. 11, 2025
-```
-```
-update(r-log): R1D3 - Sep. 10, 2025
 
-Log R1D3 and edit work done sections of R1D1 and R1D2
-```
-```
-update(resources): format with sections and add more links
+Log R1D3..
 ```
 ```
 add: rules for challenge and commit specs
 ```
+
+When making r-log updates each day, the commit carries the update of `resources.md` for resources learned from or used that day.  
+
+It also serves as commits for daily updates to the r-log webpages as well - `index.html` and `linked-resources.html`, unless the pages are significantly changed.
 
 ### Useful links
 1. [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)

@@ -31,3 +31,13 @@ More materials on the [resources](./resources.md) tab especially [interneting is
 
 Worked on: an example demonstrating all the flexbox properties - https://codepen.io/odunlemi/pen/azvrvvd
 
+## R1D4 - Sep. 11. 2025
+`flex: [value]`. The flex declaration is actually a shorthand for 3 properties that you can set on a flex item. These properties affect how flex items size themselves within their container. In this case, `flex` is actually a shorthand for `flex-grow`, `flex-shrink` and `flex-basis`.
+
+With a value of 1, as commonly used, `flex: 1` equates to: `flex-grow: 1`, `flex-shrink: 1`, `flex-basis: 0`.
+
+When `auto` is defined as a flex keyword it is equivalent to the values of `flex-grow: 1`, `flex-shrink: 1` and `flex-basis: auto` or to `flex: 1 1 auto` using the flex shorthand. Note that `flex: auto` is not the default value when using the flex shorthand despite the name being “auto”.
+
+More in the [resources](./resources.md#css-layouts) tab.
+
+Worked on: my r-log webpage, making it responsive using flexbox and setting it up for long term use - https://odunlemi.github.io/r-logs/

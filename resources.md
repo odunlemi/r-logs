@@ -3,7 +3,7 @@
 - [The Odin Project](https://www.theodinproject.com/)
 
 ## Bookmarks
-### Inderstanding the Web
+### Understanding the Web
 1. [Introductory HTTP](https://launchschool.com/books/http/read/introduction) LaunchSchool
 
 ### Git / GitHub
@@ -29,11 +29,15 @@
 
 
 ### CSS Layouts
-1. [Introduction to Flexbox](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox#knowledge-check) The Odin Project
+1. [Introduction to Flexbox](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox) The Odin Project
 
 2. [Learn Flexbox CSS in 8 minutes](https://www.youtube.com/watch?v=phWxA89Dy94) Slaying The Dragon
 
 3. [Flexbox](https://internetingishard.netlify.app/html-and-css/flexbox/#setup) Interneting is hard
+
+4. [Growing and Shrinking](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking#what-is-flex-auto) - Flexbox. The Odin Project
+
+5. [Flex grow, shrink, basis - Flexbox tutorial](https://scrimba.com/learn-flexbox-c0k/~09) Scrimba
 
 ## Articles
 1. [History of CSS Grid and CSS Flexbox](https://medium.com/@BennyOgidan/history-of-css-grid-and-css-flexbox-658ae6cfe6d2) Benny Ogidan - Medium
@@ -42,9 +46,11 @@
 
 <!-- ### Podcasts -->
 
-<!-- ## Helpful Articles
-1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
-2. [Build a Laravel CRUD Application from scratch](https://www.codewall.co.uk/laravel-crud-demo-with-resource-controller-tutorial/)
+## Helpful Articles
+1. [How to Get a Developer Job in Less Than a Year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645/)
+
+2. [Learning to Code: When It Gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd)
+<!-- 2. [Build a Laravel CRUD Application from scratch](https://www.codewall.co.uk/laravel-crud-demo-with-resource-controller-tutorial/)
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)

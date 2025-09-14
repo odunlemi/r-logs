@@ -50,3 +50,18 @@ Flex direction set to `column` switches those axes and `justify-content` then al
 More in the [resources](./resources.md#css-layouts) tab.
 
 Working on*: an interactive guide to flexbox and course assignments - [Josh w. comeau's guide](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) & [Foundation css exercises](https://github.com/odunlemi/css-exercises/tree/main/foundations/flex)
+
+## R1D6 - Sep. 13, 2025
+Flexbox is one of the many different layout algorithms, officially known as layout modes, in CSS. Each layout mode is its own sub-language within CSS. The default layout mode is the Flow layout but we can opt into flexbox by changing the display property on the parent container.
+
+> When we flip `display` to `flex`, we create a **“flex formatting context”**. This means that, by default, all children will be positioned according to the Flexbox layout algorithm.
+
+> Each layout algorithm is designed to solve a specific problem. The default **“Flow”** layout is meant to create digital documents; it's essentially the Microsoft Word layout algorithm. Headings and paragraphs stack vertically as blocks, while things like text, links, and images sit inconspicuously within these blocks.
+
+> So, what problem does Flexbox solve? Flexbox is all about arranging a group of items in a row or column, and giving us a ridiculous amount of control over the distribution and alignment of those items. As the name suggests, Flexbox is all about flexibility. We can control whether items grow or shrink, how the extra space is distributed, and more.
+
+This is the basic mental model for understanding flexbox, picked up Josh W. Comeau's guide along with tons of examples.
+
+More in the [resources](./resources.md#css-layouts) tab.
+
+Worked on: a page layout solution - https://codepen.io/odunlemi/pen/jEbjpqp and my personal landing [page](https://odunlemi.github.io/)

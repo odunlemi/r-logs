@@ -60,8 +60,28 @@ Flexbox is one of the many different layout algorithms, officially known as layo
 
 > So, what problem does Flexbox solve? Flexbox is all about arranging a group of items in a row or column, and giving us a ridiculous amount of control over the distribution and alignment of those items. As the name suggests, Flexbox is all about flexibility. We can control whether items grow or shrink, how the extra space is distributed, and more.
 
-This is the basic mental model for understanding flexbox, picked up Josh W. Comeau's guide along with tons of examples.
+This is the basic mental model for understanding flexbox, picked up in Josh W. Comeau's guide along with tons of examples.
 
 More in the [resources](./resources.md#css-layouts) tab.
 
-Worked on: a page layout solution - https://codepen.io/odunlemi/pen/jEbjpqp and my personal landing [page](https://odunlemi.github.io/)
+Worked on: a page layout [solution](https://codepen.io/odunlemi/pen/jEbjpqp) and my personal [website](https://odunlemi.github.io/)
+
+## R1D7 - Sep. 15, 2025
+Skipped yesterday (Sep. 14) but in keeping in line with the rules and [good practice](https://github.com/kallaway/100-days-of-code/blob/master/FAQ.md), I can miss a day but I'll make up for it with an added day at the end of the challenge. I absolutely cannot miss two days in a row though.
+
+Learning the flexbox algorithm has been daunting, it *is* complex, but obviously a very powerful layout mode.
+
+I could list out all I've learnt but that would be pretty redundant (because it spanned days). The most important takeaway is the mental model highlighted in R1D5, flexbox is an algorithm and the properties we define act as inputs to it on how it defines and implements them.
+
+Some excellent resources to revisit for a quick primer:
+- An interactive guide to flexbox by Josh W. Comeau*
+- Flexbox Froggy
+- Look at this CSS Tricks [cheatsheet](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png) for a quick reminder on flex properties.
+
+More in the [resources](./resources.md#css-layouts) tab.
+
+Going forward, I'll be logging more accurately, this early in my journey I'm covering a lot of material, so it'll be the *key* thing learnt that day and **work done**.
+
+Work done: 
+- A landing project [exercise](https://odunlemi.github.io/odin-landing-page/)
+- Rebuilt my personal website (https://odunlemi.github.io/) and redesigned it over the course of the missed day (Sep. 14)

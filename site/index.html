@@ -29,7 +29,7 @@
         <div class="log">
             <h2>R1D2 - Sep. 9, 2025</h2>
 
-            <p>Flexbox provides a way to arrange items into rows or columns. These items will flex, grow, or shrink based on defined rules. Flexbox is just not a single css property, it's a toolbox of properties to arrange things where you need them. Elements can either become a flex container or a flex item. An element becomes a flex container with its display set to flex like so display: flex, and a an element is a flex item when it is nested in a flex container. More in the <a href="./linked-resources.html#layouts">resources</a> tab.</p>
+            <p>Flexbox provides a way to arrange items into rows or columns. These items will flex, grow, or shrink based on defined rules. Flexbox is just not a single css property, it's a toolbox of properties to arrange things where you need them. Elements can either become a flex container or a flex item. An element becomes a flex container with its display set to flex like so display: flex, and a an element is a flex item when it is nested in a flex container. More in the <a href="./linked-resources.html">resources</a> tab.</p>
 
             <p><span class="highlight">Worked on</span>: a codepen example using flexbox properties - <a href="https://codepen.io/odunlemi/pen/dPYLJPg">https://codepen.io/odunlemi/pen/dPYLJPg</a></p>
         </div>
@@ -37,7 +37,7 @@
         <div class="log">
             <h2>R1D3 - Sep. 10, 2025</h2>
 
-            <p>Floats were the sole option of laying out a complex webpage. However, floats were originally designed for magazine-style layouts, and the kinds of layouts you can achieve with floats are somewhat limited. Flexbox was created to break out of the limitations. Flexbox gives complete control over the alignment, direction, order, size of the elements (boxes) in our layout. More materials in the <a href="./linked-resources.html#layouts">resources</a> tab especially <a href="https://internetingishard.netlify.app/html-and-css/flexbox/">Interneting is hard</a>.</p>
+            <p>Floats were the sole option of laying out a complex webpage. However, floats were originally designed for magazine-style layouts, and the kinds of layouts you can achieve with floats are somewhat limited. Flexbox was created to break out of the limitations. Flexbox gives complete control over the alignment, direction, order, size of the elements (boxes) in our layout. More materials in the <a href="./linked-resources.html">resources</a> tab especially <a href="https://internetingishard.netlify.app/html-and-css/flexbox/">Interneting is hard</a>.</p>
 
             <p><span class="highlight">Worked on:</span> an example demonstrating all the flexbox properties - <a href="https://codepen.io/odunlemi/pen/azvrvvd">https://codepen.io/odunlemi/pen/azvrvvd</a></p>
         </div>
@@ -51,9 +51,70 @@
 
             <p>When <span class="highlight">auto</span> is defined as a flex keyword it is equivalent to the values of <span class="highlight">flex-grow: 1</span>, <span class="highlight">flex-shrink: 1</span> and <span class="highlight">flex-basis: auto</span> or to <span class="highlight">flex: 1 1 auto</span> using the flex shorthand. Note that <span class="highlight">flex: auto</span> is not the default value when using the flex shorthand despite the name being “auto”.</p>
 
-            <p>More in the <a href="./linked-resources.html#layouts">resources</a> tab.</p>
+            <p>More in the <a href="./linked-resources.html">resources</a> tab.</p>
 
             <p><span class="highlight">Worked on</span>: my r-log webpage, making it responsive using flexbox and setting it up for long term use - <a href="https://odunlemi.github.io/r-logs/">https://odunlemi.github.io/r-logs/</a></p>
+        </div>
+
+        <div class="log">
+            <h2>R1D5 - Sep. 12, 2025</h2>
+
+            <p>Axes in flexbox. When an element is made a flex container, its items align across two axes - the main axis and the cross axis. <span class="highlight">justify-content</span> aligns items across the main axis. To change the placement of items along the cross axis use <span class="highlight">align-items</span>. The main axis and cross axis are based on the <span class="highlight">flex-direction</span> of the container, if <span class="highlight">row</span> which is the default, the main axis goes from left to right (horizonatal) and the cross axis goes from top to bottom (vertical).</p>
+
+            <p>Flex direction set to <span class="highlight">column</span> switches those axes and <span class="highlight">justify-content</span> then aligns items vertically and, <span class="highlight">align-items</span>, horizontally.</p>
+
+            <p>More in the <a href="./linked-resources.html">resources</a> tab.</p>
+
+            <p><span class="highlight">Working on*:</span> <a href="">Josh W. Comeau's interactive guide</a> and Odin's foundations css flex <a href="https://github.com/odunlemi/css-exercises/tree/main/foundations/flex">exercises</a></p>
+        </div>
+
+        <div class="log">
+            <h2>R1D6 - Sep. 13, 2025</h2>
+
+            <p>Flexbox is one of the many different layout algorithms, officially known as layout modes, in CSS.</p>
+
+            <p><span class="highlight">Each layout mode is its own sub-language within CSS. The default layout mode is the Flow layout but we can opt into flexbox by changing the display property on the parent container.</span></p>
+
+            <p><span class="highlight">When we flip display to flex, we create a “flex formatting context”. This means that, by default, all children will be positioned according to the Flexbox layout algorithm.</span></p>
+
+            <p><span class="highlight">Each layout algorithm is designed to solve a specific problem. The default “Flow” layout is meant to create digital documents; it's essentially the Microsoft Word layout algorithm. Headings and paragraphs stack vertically as blocks, while things like text, links, and images sit inconspicuously within these blocks.</span></p>
+
+            <p><span class="highlight">So, what problem does Flexbox solve? Flexbox is all about arranging a group of items in a row or column, and giving us a ridiculous amount of control over the distribution and alignment of those items. As the name suggests, Flexbox is all about flexibility. We can control whether items grow or shrink, how the extra space is distributed, and more.</span></p>
+
+            <p>This is the basic mental model for understanding flexbox, picked up in Josh W. Comeau's guide along with tons of examples.</p>
+
+            <p>More in the <a href="./linked-resources.html">resources</a> tab.</p>
+
+            <p><span class="highlight">Worked on</span>: a page layout solution - <a href="https://codepen.io/odunlemi/pen/jEbjpqp">https://codepen.io/odunlemi/pen/jEbjpqp</a> and my personal website - <a href="https://odunlemi.github.io/">https://odunlemi.github.io/</a></p>
+        </div>
+
+        <div class="log">
+            <h2>R1D7 - Sep. 15, 2025</h2>
+
+            <p>Skipped yesterday (Sep. 14) but in keeping in line with the rules and <a href="https://github.com/kallaway/100-days-of-code/blob/master/FAQ.md">good practice</a>, I can miss a day but I'll make up for it with an added day at the end of the challenge. I absolutely cannot miss two days in a row though.</p>
+
+            <p>Learning the flexbox algorithm has been daunting, it <span class="highlight">is</span> complex, but obviously a very powerful layout mode.</p>
+
+            <p>I could list out all I've learnt but that would be pretty redundant (because it spanned days). The most important takeaway is the mental model highlighted in R1D5, flexbox is an algorithm and the properties we define act as inputs to it on how it defines and implements them.</p>
+
+            <p>Some excellent resources to revisit for a quick primer:</p>
+
+            <ul>
+                <li>An interactive guide to flexbox by Josh W. Comeau*</li>
+                <li>Flexbox Froggy</li>
+                <li>Look at this CSS Tricks <a href="https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png">cheatsheet</a> for quick reminder on flex properties.</li>
+            </ul>
+
+            <p>More in the <a href="./linked-resources.html">resources</a> tab.</p>
+
+            <p>Going forward, I'll be logging more accurately, this early in my journey I'm covering a lot of material, so it'll be the key thing learnt that day and work done.</p>
+
+            <p><span class="highlight">Work done</span>:</p>
+
+            <ul>
+                <li>A landing project exercise - <a href="https://odunlemi.github.io/odin-landing-page/">https://odunlemi.github.io/odin-landing-page/</a></li>
+                <li>Rebuilt my personal website and redesigned it over the course of the missed day (Sep. 14) - <a href="https://odunlemi.github.io/">https://odunlemi.github.io/</a></li>
+            </ul>
         </div>
     </div>
 </body>

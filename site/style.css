@@ -5,7 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Courier Prime', Courier, monospace;
-    background-color: #E2E8F0;
+    background-color: #EFF7F6;
     color: #0F172A;
     line-height: 2;
 }
@@ -42,4 +42,5 @@ p {
 
 ul {
     margin-bottom: 8px;
+    padding: 8px;
 }

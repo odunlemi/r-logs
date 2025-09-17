@@ -55,6 +55,15 @@
 
 13. [Flexbox Crash Course](https://www.youtube.com/watch?v=3YW65K6LcIA) by Traversy Media
 
+### JavaScript
+1. [Javascript.info](https://javascript.info/)
+
+2. [Installing Node.js](https://www.theodinproject.com/lessons/foundations-installing-node-js) The Odin Project
+
+3. [JavaScript Arithmetic](https://www.w3schools.com/js/js_arithmetic.asp) W3Schools
+
+4. [What is NodeJS?](https://www.youtube.com/watch?v=uVwtVBpw7RQ) Programming with Mosh
+
 ## Articles
 1. [History of CSS Grid and CSS Flexbox](https://medium.com/@BennyOgidan/history-of-css-grid-and-css-flexbox-658ae6cfe6d2) Benny Ogidan (Medium)
 

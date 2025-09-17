@@ -129,3 +129,33 @@ Work done:
 - Frontend Mentor Blog preview card [challenge](https://odunlemi.github.io/preview-card/)
 
 ![A screenshot of my solution](../images/screenshot.png)
+
+## R1D9 - Sep. 17, 2025
+A different way to include javascript in a webpage is through an external script, very similar to linking an external stylesheet:
+```html
+<script src="script.js"></script>
+```
+Variable and operators in javascript.
+Variables are the building blocks of any program. Think of them as **"storage containers"** for data in your code.
+
+There are 3 different ways to declare variables in javascript, one not so popular:
+- `let` - a way to define a var and can be reassigned a different value later on in the code
+- `const` - used to define static values and cannot be reassigned, an example is `pi = 3.14`
+- `var` - the old way of defining vars, can still be found in codebases
+
+Dealing with numbers in javascript. Numbers are the basics of programming logic, it's hard to realize any useful programming task without some numbers and basic math done.
+
+Quick review on javascript [math](https://javascript.info/operators) | javascript.info
+
+More in the [resources](./resources.md)
+
+Also learned how to install node.js, a runtime environment that lets you run javascript outside a browser. 
+Quick [guide](https://www.theodinproject.com/lessons/foundations-installing-node-js).
+
+Work done:
+- Made my blog preview page mobile responsive. Fixed it with a media query at the right break point:
+```css
+@media screen and (max-width: 600px) { 
+    /* mobile styles here.. */ }
+```
+![Screenshot of the mobile view](../images/screenshot-mobile.jpg)

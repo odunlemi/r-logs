@@ -85,3 +85,47 @@ Going forward, I'll be logging more accurately, this early in my journey I'm cov
 Work done: 
 - A landing project [exercise](https://odunlemi.github.io/odin-landing-page/)
 - Rebuilt my personal website (https://odunlemi.github.io/) and redesigned it over the course of the missed day (Sep. 14)
+
+## R1D8 - Sep. 16, 2025
+Started on Frontend mentor challenges and coded the first one, which is a blog preview card. I had the chance to write a properly structured css file which I picked up on the tricks to from the previous tutorials and examples I've seen. Like declaring only base styles for the `body` tag, not using it as a flex container:
+
+```css
+body {
+    font-family: 'Figtree', sans-serif;
+    line-height: 1.5;
+}
+```
+Using colour as `hsl` values:
+```css
+.content h1 a:hover {
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
+```
+
+I got to work with a design file on Figma and could reference it as guide coding. 
+
+Also kicked off JavaScript. HTML and CSS add content and style, JavaScript adds interactivity. The simplest way to get started is to create an `html` file, add a basic structure and a `script` tag with a message in the body:
+
+```html
+<script>
+        // JavaScript goes here
+
+        // console.log() is the command to print 
+        // something to the developer console 
+        // in a browser
+
+        console.log("Hello, JavaScript!")
+    </script>
+```
+
+```js
+Hello, JavaScript!
+```
+
+Opening up the webpage in a browser runs the javascript code and inspecting via dev tools shows the message displayed which means the code works.
+
+Work done:
+- Frontend Mentor Blog preview card [challenge](https://odunlemi.github.io/preview-card/)
+
+![A screenshot of my solution](../images/screenshot.png)

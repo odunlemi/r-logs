@@ -159,3 +159,23 @@ Work done:
     /* mobile styles here.. */ }
 ```
 ![Screenshot of the mobile view](../images/screenshot-mobile.jpg)
+
+## R1D10 - Sep. 19, 2025
+Figma for developers and working with a design file. Collaborating with designers is a crucial part of working as a developer and Figma is a great tool for this. A design file provided by a designer helps streamline your development process.
+
+Three key things to note about working on Figma:
+- Learn to navigate the interface (and easily too with shortcuts)
+
+- Understand the project - use a prototype and a design system if included
+> A prototype is a simple, interactive version of the design that helps anyone working on the project understand how everything fits together. 
+
+> Design systems help you see all repeatable styles, patterns, and components at a glance.
+
+- Extracting information from the design file via inspecting elements, local styles and local variables, as well as exporting assets
+
+Guide on Frontend Mentor [here](https://www.frontendmentor.io/articles/figma-for-developers-how-to-work-with-a-design-file-m6CZKZ1rC1)
+
+Had a tough time slugging out data types and conditionals in Javascript. There are 8 basic data types in js - 7 primitive ones and 1 non-primitive type. Learnt about strings and string methods, conditionals - covering comparisons, logical operators, if/else statements and the `switch` statement (which is very handy).
+
+Work done:
+- A set of exercises on string methods and math operations and learning to work with tests. Link [here](https://github.com/odunlemi/javascript-exercises)

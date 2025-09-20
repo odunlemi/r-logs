@@ -64,6 +64,8 @@
 
 4. [What is NodeJS?](https://www.youtube.com/watch?v=uVwtVBpw7RQ) Programming with Mosh
 
+5. [Data Types and Conditionals](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals) The Odin Project
+
 ## Articles
 1. [History of CSS Grid and CSS Flexbox](https://medium.com/@BennyOgidan/history-of-css-grid-and-css-flexbox-658ae6cfe6d2) Benny Ogidan (Medium)
 

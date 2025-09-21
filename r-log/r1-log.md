@@ -179,3 +179,8 @@ Had a tough time slugging out data types and conditionals in Javascript. There a
 
 Work done:
 - A set of exercises on string methods and math operations and learning to work with tests. Link [here](https://github.com/odunlemi/javascript-exercises)
+
+## R1D11 - Sep. 21, 2025
+Spent the evening working on the Frontend Mentor social links profile challenge.
+
+Link **[here](https://odunlemi.github.io/social-links-profile/)**

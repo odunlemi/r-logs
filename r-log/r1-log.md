@@ -128,7 +128,7 @@ Opening up the webpage in a browser runs the javascript code and inspecting via 
 Work done:
 - Frontend Mentor Blog preview card [challenge](https://odunlemi.github.io/preview-card/)
 
-![A screenshot of my solution](../images/screenshot.png)
+![A screenshot of my solution](../images/screenshot-blog-preview-page.png)
 
 ## R1D9 - Sep. 17, 2025
 A different way to include javascript in a webpage is through an external script, very similar to linking an external stylesheet:
@@ -158,7 +158,7 @@ Work done:
 @media screen and (max-width: 600px) { 
     /* mobile styles here.. */ }
 ```
-![Screenshot of the mobile view](../images/screenshot-mobile.jpg)
+![Screenshot of the mobile view](../images/screenshot-blog-preview-page-mobile.jpg)
 
 ## R1D10 - Sep. 19, 2025
 Figma for developers and working with a design file. Collaborating with designers is a crucial part of working as a developer and Figma is a great tool for this. A design file provided by a designer helps streamline your development process.
@@ -184,3 +184,29 @@ Work done:
 Spent the evening working on the Frontend Mentor social links profile challenge.
 
 Link **[here](https://odunlemi.github.io/social-links-profile/)**
+![Screenshot of social links profile page](../images/screenshot-social-links-profile.png)
+
+## R1D12 - Sep. 22, 2025
+Worked on making the social profile solution a mobile-first design and I practiced writing better structured css by using vars for colour values, and styling for various screen sizes.
+
+```css
+/* Sets vars for colour values */
+:root {
+    --green: hsl(75, 94%, 57%);
+    --white: hsl(0, 0%, 100%);
+    --grey-700: hsl(0, 0%, 20%);
+    --grey-800: hsl(0, 0%, 12%);
+    --grey-900: hsl(0, 0%, 8%)
+}
+```
+```css
+/* Targets various screen size with one media query */
+@media screen and (min-width: 600px) and (max-width: 699px), (min-width: 700px) {
+    /* Styles for larger screen sizes */
+}
+```
+![A screenshot of the mobile view](../images/screenshot-social-links-profile-mobile.jpg)
+
+Work done:
+- Repo link [here](https://github.com/odunlemi/social-links-profile)
+- Live solution [here](https://odunlemi.github.io/social-links-profile/)

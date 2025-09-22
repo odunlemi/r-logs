@@ -55,6 +55,9 @@
 
 13. [Flexbox Crash Course](https://www.youtube.com/watch?v=3YW65K6LcIA) by Traversy Media
 
+### CSS Custom Properties
+1. [CSS Variables - The var() Function](https://www.w3schools.com/css/css3_variables.asp) W3Schools
+
 ### JavaScript
 1. [Javascript.info](https://javascript.info/)
 

@@ -69,6 +69,10 @@
 
 5. [Data Types and Conditionals](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals) The Odin Project
 
+6. [JavaScript Developer Tools](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools) The Odin Project
+
+7. [Functions](https://javascript.info/function-basics) javascript.info
+
 ## Articles
 1. [History of CSS Grid and CSS Flexbox](https://medium.com/@BennyOgidan/history-of-css-grid-and-css-flexbox-658ae6cfe6d2) Benny Ogidan (Medium)
 

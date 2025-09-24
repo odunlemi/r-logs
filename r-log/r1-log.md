@@ -210,3 +210,30 @@ Worked on making the social profile solution a mobile-first design and I practic
 Work done:
 - Repo link [here](https://github.com/odunlemi/social-links-profile)
 - Live solution [here](https://odunlemi.github.io/social-links-profile/)
+
+## R1D13 - Sep. 24, 2025
+I spent most of the time not updating my r-log in the last two r-days with proper learning content because I've been battling it out with JS.
+
+Learnt to debug with Javascript dev tools; using the console and the types of breakpoints you can set:
+- Line-of-code
+- Event listener 
+- Logpoint and many other breakpoints, [chrome for developers](https://developer.chrome.com/docs/devtools/javascript/breakpoints/) on breakpoints is a thorough resource. 
+> A breakpoint is used to pause your Javascript code
+
+Now covering functions, which is being able to take code you've written and making it more useful. That is, taking a great piece of code and being able to reuse it over and over again without needing to rewrite or change the code. Functions are used *constantly* in javascript.
+
+A function takes this form:
+```js
+function sum(param1, param2) {
+    return param1 + param2;
+}
+
+sum(3 + 5); // 8
+```
+Where `param1` and `param2` (parameters) are placeholders for values the `sum` function will take. The `return` line is the function body which does something, which is add two numbers here, and the `sum(3 + 5)` line is the function working, or being *called*, and outputs `8`. 
+
+The most important thing to note here is that the sum of those two numbers could be done directly as `3 + 5 = 8`, 
+but for any two numbers, the `sum` function makes it much more efficient. That is the power of functions.
+
+Work done:
+- Slaving away to Js functions and debugging in dev tools
